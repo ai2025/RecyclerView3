@@ -19,15 +19,24 @@ Hasil 3 (RecylerView Add)
 
 Hasil 4 (RecyclerView Edit)
 
-![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/5.1.PNG "") Lanjutan
+![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/5.1.PNG "") 
+
+Lanjutan
+
 ![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/5.2.PNG "")
 
 ![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/6.PNG "")
 
 Hasil 5 (RecyclerView Delete)
 
-![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/7.1.PNG "") Melakukan Undo
-![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/7.2.PNG "") Tanpa melakukan Undo
+![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/7.1.PNG "") 
+
+Melakukan Undo
+
+![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/7.2.PNG "") 
+
+Tanpa melakukan Undo
+
 ![ScreenShoot](https://github.com/ai2025/RecyclerView3/blob/master/7.3.PNG "")
 
 Hasil 4 (RecyclerView Edit)
